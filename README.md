@@ -2,7 +2,7 @@
 Hola 👋 I'm Shanu 👩🏻‍💻 
 </h1>
 <h4 align="center"/>
-A Game and Blockchain developer from India.</h4>
+Building [LYNC](https://lync.world/)</h4>
 <h4 align="center">📫 How to reach me: shanu@lync.com</h4>
 
 
