@@ -5,9 +5,6 @@ Hola 👋 I'm Shanu 👩🏻‍💻
 Building LYNC</h4>
 <h4 align="center">📫 How to reach me: shanu@lync.com</h4>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanu12joshi&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanu12joshi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
