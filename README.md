@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Shanu — Co-founder & CTO, LYNC">
+  <img src="/assets/header.svg" width="100%" alt="Shanu — Co-founder & CTO, LYNC">
 </p>
 
 <p align="center">
